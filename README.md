@@ -34,7 +34,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-<a href="https://harshak.me"><img src="https://img.shields.io/badge/-harshak.me-3423A6?style=flat-square&logo=Internet&logoColor=white"/></a>
+<a href="https://harshak.me"><img src="https://img.shields.io/badge/-harshak.me-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/harsha-vardhan-213ba3184/"><img src="https://img.shields.io/badge/-Harsha%20Vardhan-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="kondapuramharsha@gmail.com"><img src="https://img.shields.io/badge/-kondapuramharsha@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
