@@ -2,7 +2,7 @@
 ---
 <img align ="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Sophomore Computer Science and Engineering Student  
+## I'm a Sophomore CS Undergraduate
 
 - 👨‍💻 I’m currently learning <strong>Flutter Development</strong>
 - 💬 Ask me about <strong>Java, Web Development and OpenSource</strong>
