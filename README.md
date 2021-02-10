@@ -33,7 +33,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="harshak.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" src = "https://www.harshak.me" />
-<img align="left" alt="Harsha| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" src = "https://www.linkedin.com/in/harsha-vardhan-213ba3184/" />
+<img align="left" alt="harshak.me" width="22px"  src = "https://www.harshak.me" />
+<img align="left" alt="Harsha| LinkedIn" width="22px" src = "https://www.linkedin.com/in/harsha-vardhan-213ba3184/" />
 
 <br />
