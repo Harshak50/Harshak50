@@ -6,7 +6,7 @@
 
 - 👨‍💻 I’m currently into <strong>Fullstack Development</strong>
 - 💬 Ask me about <strong>Flutter, Web Development and OpenSource</strong>
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 💪🏼 Future Goals: - Never stop creating new ideas.
 
 
 ---
