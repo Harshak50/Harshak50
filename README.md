@@ -4,8 +4,8 @@
 
 ## I'm a Junior CS Undergraduate
 
-- 👨‍💻 I’m currently into <strong>Flutter Development</strong>
-- 💬 Ask me about <strong>Java, Web Development and OpenSource</strong>
+- 👨‍💻 I’m currently into <strong>Fullstack Development</strong>
+- 💬 Ask me about <strong>Flutter, Web Development and OpenSource</strong>
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 
