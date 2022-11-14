@@ -2,7 +2,7 @@
 ---
 <img align ="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Junior CS Undergraduate
+## I'm a final CS Undergraduate
 
 - 👨‍💻 I’m currently into <strong>Fullstack Development</strong>
 - 💬 Ask me about <strong>Flutter, Web Development and OpenSource</strong>
