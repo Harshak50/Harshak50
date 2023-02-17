@@ -31,11 +31,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshak50&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="left">
-<a href="https://harshak50.netlify.app"><img src="https://img.shields.io/badge/-harshak.me-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/harsha-vardhan-213ba3184/"><img src="https://img.shields.io/badge/-Harsha%20Vardhan-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="kondapuramharsha@gmail.com"><img src="https://img.shields.io/badge/-kondapuramharsha@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <br />
